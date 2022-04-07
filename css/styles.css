@@ -18,7 +18,7 @@ h5 {
 .about-me-section,
 .my-projects-section,
 .my-work-experience-section {
-  margin-bottom: 45px;
+  margin-bottom: 40px;
 }
 
 /* Main content section */
@@ -140,6 +140,10 @@ h5 {
   margin: 0 0 15px 0;
 }
 /* My education */
+
+.my-education:not(:last-child) {
+  margin-bottom: 40px;
+}
 
 .my-education-university {
   font-style: normal;
