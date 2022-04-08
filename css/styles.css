@@ -118,6 +118,8 @@ h5 {
   font-size: 12px;
   line-height: 15px;
   color: #a8a8a8;
+  /* color: #8e8989; */
+
   margin: 0 0 10px 0;
 }
 
@@ -150,7 +152,6 @@ h5 {
   font-weight: bold;
   font-size: 16px;
   line-height: 20px;
-  color: #fb6d3a;
   margin: 0 0 10px 0;
 }
 
@@ -208,7 +209,7 @@ h5 {
 }
 
 .contact-section-link {
-  color: #7c838e;
+  color: #a0a7b1;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -224,7 +225,7 @@ h5 {
 .tech-skills-iteam,
 .soft-skills-iteam,
 .language-skills-iteam {
-  color: #fb6d3a;
+  color: #a0a7b1;
 }
 
 .tech-skills-iteam-text,
